@@ -1,0 +1,19 @@
+material 381/Grass {
+	technique {
+		pass {
+			texture_unit {
+				texture TexturesCom_Grass0130_1_seamless_S.jpg
+			}
+		}
+	}
+}
+
+material 381/Runway {
+	technique {
+		pass {
+			texture_unit {
+				texture TexturesCom_Pavement_RoadOld_Yellow_1K_albedo.tif
+			}
+		}
+	}
+}

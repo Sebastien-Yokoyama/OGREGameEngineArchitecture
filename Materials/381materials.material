@@ -1,0 +1,19 @@
+material 381/Grass {
+	technique {
+		pass {
+			texture_unit {
+				texture grass.jpg
+			}
+		}
+	}
+}
+
+material 381/Runway {
+	technique {
+		pass {
+			texture_unit {
+				texture runway.tif
+			}
+		}
+	}
+}
